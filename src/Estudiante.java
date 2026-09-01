@@ -1,7 +1,8 @@
 /**
  * Clase que representa a un estudiante y gestiona sus notas académicas.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Luis Zhong, Cedula: 8-1066-834
+ * @author Jafeth Guevara, Cedula: 8-1061-91
  * @version 1.0
  */
 public class Estudiante {
