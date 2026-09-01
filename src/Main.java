@@ -1,7 +1,8 @@
 /**
  * Clase ejecutable para probar la lógica de Estudiante.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Luis Zhong, Cedula: 8-1066-834
+ * @author Jafeth Guevara, Cedula: 8-1061-91
  */
 public class Main {
 
